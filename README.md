@@ -7,6 +7,9 @@ This project was carried out at Enseirb-Matmeca with 4 people, including :
 - [Thibaut BRINTET](https://github.com/tbrintet/)
 - Me, [Arthur LE FLOCH](https://github.com/ArthurLeFloch/)
 
+The aim was to create a website for garage employees to save data about their maintenances and their clients.
+Give it a try by adding, modifying and removing some stuff :D
+
 ## Preview
 
 Maintenances page for a specific client and a specific vehicle :
