@@ -9,7 +9,13 @@ This project was carried out at Enseirb-Matmeca with 4 people, including :
 
 ## Preview
 
-TODO
+Maintenances page for a specific client and a specific vehicle :
+
+![Preview](./res/maintenances.png)
+
+Add maintenance page :
+
+![Preview](./res/add_maintenance.png)
 
 ### Required packages
 
