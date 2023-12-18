@@ -1,5 +1,16 @@
 # Garage: Vehicle maintenances
 
+This is a French website created using [Bootstrap](https://getbootstrap.com/), PHP, JS and PostgreSQL.
+
+This project was carried out at Enseirb-Matmeca with 4 people, including :
+- [Guilhem ARDOUIN](https://github.com/gardouin/)
+- [Thibaut BRINTET](https://github.com/tbrintet/)
+- Me, [Arthur LE FLOCH](https://github.com/ArthurLeFloch/)
+
+## Preview
+
+TODO
+
 ### Required packages
 
 Ubuntu :
